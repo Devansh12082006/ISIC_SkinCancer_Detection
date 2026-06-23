@@ -26,6 +26,7 @@ Our approach leveraged both image and tabular data to develop robust classificat
 
 - **EDA_ISIC**
   - Performed basic **Exploratory Data Analysis (EDA)** to understand the dataset structure, distribution of classes, and key statistical insights.
-  - ## License
+- ## License
+  - This project is licensed under the MIT License.
 
-This project is licensed under the MIT License.
+
